@@ -1,0 +1,292 @@
+{
+  "danhmuc": [
+    {
+      "id": 1,
+      "tendm": "Điện Thoại"
+    },
+    {
+      "tendm": "Máy Tính Bảng",
+      "id": 2
+    },
+    {
+      "tendm": "Laptop",
+      "id": 3
+    },
+    {
+      "tendm": "Phụ Kiện",
+      "id": 4
+    }
+  ],
+  "sanpham": [
+    {
+      "id": 1,
+      "danhmucID": "3",
+      "images": "images/product/1.png",
+      "tensp": "iphone 11 pro max",
+      "thongtin": "hang chinh hang",
+      "masp": "mng001",
+      "gia": "12000000",
+      "giamgia": "11500000",
+      "soluong": "200",
+      "mota": "<p><strong>iPhone 11 Pro Max 512GB l&agrave; phi&ecirc;n bản c&oacute; bộ nhớ nhiều nhất, m&agrave;n h&igrave;nh lớn nhất v&agrave; thời lượng pin tuyệt vời nhất hiện nay. Bạn sẽ được cầm tr&ecirc;n tay chiếc điện thoại đẳng cấp m&agrave; bất cứ ai cũng mơ ước.</strong></p>\n\n<p><img alt=\"iPhone 11 Pro Max thiết kế\" src=\"https://fptshop.com.vn/Uploads/images/2015/Tin-Tuc/QuanLNH2/iphone-11-pro-max-2.jpg\" /></p>\n\n<h3><strong>Đỉnh cao của sự sang trọng, nghệ thuật v&agrave; c&ocirc;ng nghệ</strong></h3>\n\n<p>iPhone 11 Pro Max l&agrave; biểu tượng của sự sang trọng, t&iacute;nh nghệ thuật v&agrave; vẻ đẹp của c&ocirc;ng nghệ. Sự kết hợp ho&agrave;n hảo giữa những vật liệu cao cấp l&agrave; khung th&eacute;p kh&ocirc;ng gỉ v&agrave; hai mặt k&iacute;nh cường lực gi&uacute;p iPhone 11 Pro Max hết sức sang trọng, đẳng cấp. iPhone mới đ&atilde; chuyển sang mặt lưng sơn nh&aacute;m độc đ&aacute;o, đẹp mắt hơn đồng thời kh&ocirc;ng bị b&aacute;m bẩn hay dấu v&acirc;n tay. iPhone 11 Pro Max c&oacute; 4 m&agrave;u thời thượng l&agrave; V&agrave;ng, X&aacute;m kh&ocirc;ng gian, Bạc v&agrave; Xanh Midnight. D&ugrave; l&agrave; chiếc iPhone c&oacute; m&agrave;n h&igrave;nh lớn nhất hiện nay, nhưng iPhone 11 Pro Max vẫn cho cảm gi&aacute;c cầm thoải m&aacute;i, chắc chắn tr&ecirc;n tay.</p>\n\n<p><strong><img alt=\"iPhone Pro\" src=\"https://fptshop.com.vn/Uploads/images/2015/Tin-Tuc/QuanLNH2/iPhone-11-Pro-1.jpg\" /></strong></p>\n\n<h3><strong>Kh&ocirc;ng chỉ đẹp m&agrave; c&ograve;n rất bền</strong></h3>\n\n<p>iPhone 11 Pro Max kh&ocirc;ng chỉ đẹp xuất sắc m&agrave; c&ograve;n l&agrave; một chiếc điện thoại v&ocirc; c&ugrave;ng bền vững. Được chế t&aacute;c từ khung th&eacute;p kh&ocirc;ng gỉ v&agrave; hai mặt k&iacute;nh cường lực cứng nhất thế giới smartphone, iPhone 11 Pro Max c&oacute; khả năng chống va đập cực tốt. Chất lỏng cũng kh&ocirc;ng phải l&agrave; mối nguy hại với iPhone 11 Pro Max khi với chuẩn chống nước IP68, điện thoại c&oacute; khả năng ng&acirc;m nước dưới độ s&acirc;u 4m trong thời gian tối đa 30 ph&uacute;t. Sự bền bỉ, chế t&aacute;c cao cấp gi&uacute;p iPhone 11 Pro Max thực sự khẳng định được đẳng cấp h&agrave;ng đầu.</p>\n\n<p><img alt=\"iPhone Pro thiết kế\" src=\"https://fptshop.com.vn/Uploads/images/2015/Tin-Tuc/QuanLNH2/iPhone-11-Pro-12.jpg\" /></p>\n\n<h3><strong>Hiệu năng mạnh như m&aacute;y t&iacute;nh để b&agrave;n</strong></h3>\n\n<p>Sự kết hợp của bộ vi xử l&yacute; Apple A13 Bionic mạnh nhất hiện nay v&agrave; bộ nhớ trong l&ecirc;n tới 512GB gi&uacute;p iPhone 11 Pro Max 512GB c&oacute; hiệu năng tương đương một chiếc m&aacute;y t&iacute;nh để b&agrave;n. So với thế hệ trước, Apple A13 Bionic nhanh hơn 20% v&agrave; ti&ecirc;u thụ năng lượng &iacute;t hơn tới 40% cả về CPU lẫn GPU. iPhone 11 Pro Max mạnh mẽ vượt trội khi đặt cạnh bất cứ đối thủ n&agrave;o tr&ecirc;n thị trường hiện nay. Bạn c&oacute; thể render video, chạy c&aacute;c ứng dụng đồ họa v&agrave; những tựa game nặng nhất một c&aacute;ch mượt m&agrave; tr&ecirc;n iPhone 11 Pro Max.</p>\n\n<p>&nbsp;</p>\n",
+      "mausac": "xanh",
+      "thoigian": "10-10-2020"
+    },
+    {
+      "id": 2,
+      "danhmucID": "1",
+      "images": "images/product/2.png",
+      "tensp": "iphone 11 pro max",
+      "thongtin": "hang chinh hang",
+      "masp": "mng001",
+      "gia": "11000000",
+      "giamgia": "9500000",
+      "soluong": "200",
+      "mota": "<p><strong>Phi&ecirc;n bản bộ nhớ lớn nhất iPhone 11 Pro 512GB cho bạn kh&ocirc;ng gian lưu trữ thoải m&aacute;i, tha hồ chụp ảnh v&agrave; quay video bằng hệ thống 3 camera sau si&ecirc;u đỉnh, thời lượng pin d&agrave;i v&ocirc; tận c&ugrave;ng sức mạnh khổng lồ từ bộ vi xử l&yacute; Apple A13 Bionic.</strong></p>\n\n<p><strong><img alt=\"\" src=\"https://fptshop.com.vn/Uploads/images/2015/Tin-Tuc/QuanLNH2/iPhone-11-Pro-14.jpg\" /></strong></p>\n\n<h3><strong>Sức mạnh đẳng cấp Pro</strong></h3>\n\n<p>Bộ vi xử l&yacute; A13 Bionic tr&ecirc;n iPhone 11 Pro 512GB mang đến hiệu năng ở một đẳng cấp kh&aacute;c so với c&aacute;c smartphone hiện nay. Con chip si&ecirc;u mạnh mẽ cả về CPU v&agrave; GPU c&ograve;n được hỗ trợ bởi tr&iacute; tuệ nh&acirc;n tạo, tự động học hỏi để mang đến trải nghiệm mượt m&agrave; hiếm c&oacute;. Mọi t&aacute;c vụ d&ugrave; phức tạp đến mấy cũng đều được xử l&yacute; nhanh ch&oacute;ng, tất cả c&aacute;c tựa game nặng đều được thể hiện xuất sắc. Sức mạnh đ&aacute;ng kinh ngạc của iPhone 11 Pro khiến cho mọi việc đều trở n&ecirc;n dễ d&agrave;ng.</p>\n\n<p><img alt=\"iPhone Pro hiệu năng\" src=\"https://fptshop.com.vn/Uploads/images/2015/Tin-Tuc/QuanLNH2/iPhone-11-Pro-10.jpg\" /></p>\n\n<h3><strong>Thời lượng pin kh&oacute; tin</strong></h3>\n\n<p>Bạn sẽ bất ngờ về thời lượng pin của iPhone 11 Pro. Chiếc iPhone mới c&oacute; thời gian sử dụng l&acirc;u hơn iPhone Xs trước đ&acirc;y tới 4 giờ đồng hồ. Đ&acirc;y l&agrave; kết quả của cả hệ thống vận h&agrave;nh, bao gồm pin, chip, m&agrave;n h&igrave;nh, phần mềm được cải tiến. Tr&ecirc;n iPhone 11 Pro bạn c&oacute; thể sử dụng thoải m&aacute;i kh&ocirc;ng lo hết pin, đồng thời sạc cực nhanh bằng củ sạc 18W đi k&egrave;m. Chỉ cần 30 ph&uacute;t sạc cho cả ng&agrave;y d&agrave;i năng động, lu&ocirc;n lu&ocirc;n sẵn s&agrave;ng v&agrave; kh&ocirc;ng phải chờ đợi với iPhone 11 Pro.</p>\n\n<p><img alt=\"iPhone Pro pin\" src=\"https://fptshop.com.vn/Uploads/images/2015/Tin-Tuc/QuanLNH2/iPhone-11-Pro-11.jpg\" /></p>\n\n<h3><strong>Thiết kế mặt lưng nh&aacute;m cao cấp</strong></h3>\n\n<p>Vẫn được ho&agrave;n thiện từ khung th&eacute;p kh&ocirc;ng gỉ cao cấp v&agrave; hai mặt k&iacute;nh cường lực b&oacute;ng bẩy, nhưng giờ đ&acirc;y lớp sơn nh&aacute;m ở mặt lưng mang đến diện mạo ho&agrave;n to&agrave;n mới cho iPhone 11 Pro. Mặt lưng sẽ lu&ocirc;n s&aacute;ng đẹp, mịn m&agrave;ng m&agrave; kh&ocirc;ng bị b&aacute;m bẩn, mồ h&ocirc;i hay dấu v&acirc;n tay. Chiếc iPhone nhỏ gọn, cho cảm gi&aacute;c cầm nắm ho&agrave;n hảo nhưng vẫn c&oacute; m&agrave;n h&igrave;nh đủ lớn để trải nghiệm tốt mọi thứ. Bạn sẽ c&oacute; 4 lựa chọn m&agrave;u sắc sang trọng, bao gồm V&agrave;ng, X&aacute;m kh&ocirc;ng gian, Bạc v&agrave; m&agrave;u mới Xanh Midnigh đặc biệt.</p>\n\n<p><strong><img alt=\"iPhone Pro\" src=\"https://fptshop.com.vn/Uploads/images/2015/Tin-Tuc/QuanLNH2/iPhone-11-Pro-1.jpg\" /></strong></p>\n\n<h3><strong>Chất liệu si&ecirc;u cứng, ho&agrave;n thiện chắc chắn, chống nước chuẩn IP68</strong></h3>\n\n<p>Những chất liệu tạo n&ecirc;n iPhone 11 Pro bao gồm th&eacute;p kh&ocirc;ng gỉ v&agrave; k&iacute;nh cường lực cứng nhất thế giới smartphone. Ch&iacute;nh v&igrave; vậy iPhone 11 Pro v&ocirc; c&ugrave;ng chắc chắn, sẵn s&agrave;ng đương đầu mọi thử th&aacute;ch. Khả năng chống nước chuẩn IP68 cho ph&eacute;p bạn ng&acirc;m nước dưới độ s&acirc;u 4m trong thời gian l&ecirc;n tới 30 ph&uacute;t, đồng nghĩa với việc iPhone 11 miễn nhiễm với hầu hết nguy cơ từ chất lỏng.</p>\n",
+      "mausac": "xanh",
+      "thoigian": "10-10-2020"
+    },
+    {
+      "danhmucID": "1",
+      "images": "images/product/3.png",
+      "tensp": "iphone XS max",
+      "thongtin": "san pham 1",
+      "masp": "MSP2",
+      "gia": "12100000",
+      "giamgia": "11000000",
+      "soluong": "12",
+      "mota": "<p><strong>Ch&agrave;o đ&oacute;n bạn đến với thế hệ iPhone Pro đầu ti&ecirc;n.&nbsp;<a href=\"https://fptshop.com.vn/dien-thoai/iphone-11-pro-64gb\" target=\"_blank\">iPhone 11 Pro</a>&nbsp;sở hữu hệ thống 3 camera đẳng cấp, một bước nhảy vọt về thời lượng pin v&agrave; con chip mới c&oacute; hiệu năng mạnh mẽ chưa từng thấy. Mạnh mẽ, kh&aacute;c biệt v&agrave; chuy&ecirc;n nghiệp, sản phẩm ho&agrave;n to&agrave;n xứng đ&aacute;ng với t&ecirc;n gọi.</strong></p>\n\n<p><strong><img alt=\"iPhone Pro\" src=\"https://fptshop.com.vn/Uploads/images/2015/Tin-Tuc/QuanLNH2/iPhone-11-Pro-1.jpg\" /></strong></p>\n\n<h3><strong>Kiệt t&aacute;c thiết kế, 4 m&agrave;u sắc thời thượng</strong></h3>\n\n<p>Ho&agrave;n thiện từ khung th&eacute;p kh&ocirc;ng gỉ chắc chắn v&agrave; hai mặt k&iacute;nh cường lực b&oacute;ng bẩy, iPhone 11 Pro 64GB thật sự nổi bật giữa đ&aacute;m đ&ocirc;ng. Chiếc iPhone nhỏ gọn, cho cảm gi&aacute;c cầm nắm ho&agrave;n hảo nhưng vẫn c&oacute; m&agrave;n h&igrave;nh đủ lớn để trải nghiệm tốt mọi thứ. 4 phi&ecirc;n bản m&agrave;u sắc sang trọng, mang đến nhiều lựa chọn cho người d&ugrave;ng. 4 m&agrave;u sắc iPhone 11 Pro bao gồm V&agrave;ng, X&aacute;m kh&ocirc;ng gian, Bạc v&agrave; đặc biệt l&agrave; m&agrave;u mới Xanh Midnight đầy cuốn h&uacute;t.</p>\n\n<p><img alt=\"thiết kế iPhone Pro\" src=\"https://fptshop.com.vn/Uploads/images/2015/Tin-Tuc/QuanLNH2/iPhone-11-Pro.jpg\" /></p>\n\n<h3><strong>Chiếc iPhone đầu ti&ecirc;n c&oacute; 3 camera sau</strong></h3>\n\n<p>Hệ thống 3 camera lần đầu ti&ecirc;n xuất hiện tr&ecirc;n Apple iPhone 11 Pro. Chụp cảnh rộng gấp 4 lần; h&igrave;nh ảnh tuyệt đẹp trong điều kiện &aacute;nh s&aacute;ng yếu; quay video chất lượng cao nhất thế giới smartphone v&agrave; tr&ecirc;n hết khả năng chỉnh sửa với những c&ocirc;ng cụ chuy&ecirc;n nghiệp ngay tr&ecirc;n chiếc điện thoại của bạn. iPhone 11 Pro sẽ l&agrave; nơi khởi nguồn cho những s&aacute;ng tạo v&agrave; cảm hứng bất tận trong nhiếp ảnh.</p>\n\n<p><img alt=\"camera iPhone Pro\" src=\"https://fptshop.com.vn/Uploads/images/2015/Tin-Tuc/QuanLNH2/iPhone-11-Pro-2.jpg\" /></p>\n\n<h3><strong>Kh&ocirc;ng giới hạn tầm nh&igrave;n</strong></h3>\n\n<p>Với bộ 3 camera đẳng cấp, điện thoại iPhone 11 Pro cho ph&eacute;p bạn ph&oacute;ng to ảnh từ camera Tele cho đến camera g&oacute;c si&ecirc;u rộng mới. Khả năng zoom quang 4x v&agrave; thu được khung cảnh lớn gấp 4 lần đầy ấn tượng. H&atilde;y mang những d&atilde;y n&uacute;i h&ugrave;ng vĩ, những c&ocirc;ng tr&igrave;nh kiến tr&uacute;c đặc biệt hay cả một c&aacute;nh rừng nguy&ecirc;n sinh v&agrave;o trong ống k&iacute;nh của ri&ecirc;ng bạn.</p>\n\n<p><img alt=\"góc siêu rộng iPhone Pro\" src=\"https://fptshop.com.vn/Uploads/images/2015/Tin-Tuc/QuanLNH2/iPhone-11-Pro-3.jpg\" /></p>\n\n<h3><strong>Chụp ảnh ho&agrave;n hảo ngay cả khi &aacute;nh s&aacute;ng yếu</strong></h3>\n\n<p>Từ nh&agrave; h&agrave;ng &aacute;nh đ&egrave;n lung linh cho đến b&atilde;i biển dưới &aacute;nh trăng, iPhone 11 Pro dễ d&agrave;ng ghi lại những khoảnh khắc của bạn trong điều kiện thiếu s&aacute;ng nhờ chế độ chụp đ&ecirc;m Night Mode. Sự kết hợp giữa cảm biến camera mới, phần mềm th&ocirc;ng minh v&agrave; khả năng xử l&yacute; tuyệt vời của con chip A13 Bionic mang lại những bức ảnh thiếu s&aacute;ng chưa từng c&oacute; tr&ecirc;n iPhone. Đơn giản bạn chỉ cần đưa m&aacute;y l&ecirc;n v&agrave; chụp, điện thoại sẽ tự động nhận diện điều kiện &aacute;nh s&aacute;ng để đưa ra chế độ chụp ph&ugrave; hợp, cho kết quả ho&agrave;n hảo nhất.</p>\n\n<p><img alt=\"iPhone Pro thiếu sáng\" src=\"https://fptshop.com.vn/Uploads/images/2015/Tin-Tuc/QuanLNH2/iPhone-11-Pro-4.jpg\" /></p>\n",
+      "mausac": "den",
+      "thoigian": "20-10-2020",
+      "id": 3
+    },
+    {
+      "danhmucID": "2",
+      "images": "images/product/16.png",
+      "tensp": "iPad 2019 10.2 Wi-Fi + 4G 32GB",
+      "thongtin": "iPad 2019",
+      "masp": "352",
+      "gia": "19000000",
+      "giamgia": "15000000",
+      "soluong": "123",
+      "mota": "<p><strong>iPad 2019 10.2 Wi-Fi 4G 32GB l&agrave; phi&ecirc;n bản iPad tối ưu cho hầu hết người d&ugrave;ng, với kết nối 4G tiện dụng, m&agrave;n h&igrave;nh lớn, tương th&iacute;ch với phụ kiện Apple Pencil v&agrave; Smart Keyboard.</strong></p>\n\n<p><strong><img alt=\"iPad 2019\" src=\"https://fptshop.com.vn/Uploads/images/2015/Tin-Tuc/QuanLNH2/ipad-2019-1.jpg\" /></strong></p>\n\n<h3><strong>Kết nối 4G LTE si&ecirc;u tốc</strong></h3>\n\n<p>Với kết nối Wi-Fi chuẩn mới cực nhanh v&agrave; Gigabit-class LTE si&ecirc;u tốc, iPad 2019 đảm bảo cho bạn lu&ocirc;n lu&ocirc;n kết nối ở bất cứ đ&acirc;u. Bạn c&oacute; thể duyệt web, tải s&aacute;ch eBook, xem video trực tuyến v&agrave; l&agrave;m rất nhiều thứ tr&ecirc;n mạng Internet. Một thiết bị di động như iPad kh&ocirc;ng thể thiếu kết nối, v&agrave; h&atilde;y y&ecirc;n t&acirc;m về tốc độ mạng tr&ecirc;n phi&ecirc;n bản iPad 2019 Wi-Fi 4G 32GB.</p>\n\n<p><img alt=\"iPad 2019 4G LTE\" src=\"https://fptshop.com.vn/Uploads/images/2015/Tin-Tuc/QuanLNH2/ipad-2019-12.jpg\" /></p>\n\n<h3><strong>L&agrave;m việc năng suất như m&aacute;y t&iacute;nh để b&agrave;n</strong></h3>\n\n<p>iPad 2019 mới mang đến những trải nghiệm c&ograve;n hơn cả m&aacute;y t&iacute;nh để b&agrave;n, cho ph&eacute;p bạn ho&agrave;n th&agrave;nh c&ocirc;ng việc một c&aacute;ch đơn giản. Bạn c&oacute; thể vừa chỉnh sửa t&agrave;i liệu, vừa mở web tham khảo, vừa gọi FaceTime với đồng nghiệp c&ugrave;ng l&uacute;c tr&ecirc;n một m&agrave;n h&igrave;nh. Quản l&yacute; tất cả c&aacute;c tệp tin của bạn hiệu quả với ứng dụng File. Thao t&aacute;c nhập liệu cũng diễn ra nhanh ch&oacute;ng qua b&agrave;n ph&iacute;m ảo tr&ecirc;n m&agrave;n h&igrave;nh hoặc b&agrave;n ph&iacute;m Smart Keyboard. Mọi thứ tr&ecirc;n iPad 2019 đều sinh ra để phục vụ cho c&ocirc;ng việc của bạn.</p>\n\n<p><img alt=\"làm việc iPad 2019\" src=\"https://fptshop.com.vn/Uploads/images/2015/Tin-Tuc/QuanLNH2/ipad-2019-3.jpg\" /></p>\n\n<h3><strong>Dễ d&agrave;ng học tập mọi l&uacute;c mọi nơi</strong></h3>\n\n<p>Những ứng dụng học tập bổ &iacute;ch tr&ecirc;n App Store l&agrave; nơi tốt nhất để bạn học hỏi bất cứ điều g&igrave;, v&iacute; dụ học một ng&ocirc;n ngữ mới hoặc s&aacute;ng t&aacute;c b&agrave;i h&aacute;t. Ngo&agrave;i ra, c&ocirc;ng nghệ thực tế tăng cường c&ograve;n gi&uacute;p mọi thứ trở n&ecirc;n trực quan hơn, chẳng hạn như khi t&igrave;m hiểu về lịch sử vũ trụ; c&aacute;c vĩ nh&acirc;n nổi tiếng; tất cả như nổi l&ecirc;n khỏi iPad v&agrave; hiện ra ngay trước mắt bạn. Việc học tập n&agrave;y sẽ hiệu quả v&agrave; dễ d&agrave;ng được ghi nhớ v&agrave;o n&atilde;o bộ.</p>\n\n<p><img alt=\"học tập iPad 2019\" src=\"https://fptshop.com.vn/Uploads/images/2015/Tin-Tuc/QuanLNH2/ipad-2019-5.jpg\" /></p>\n",
+      "mausac": "Đen",
+      "thoigian": "20-10-2020",
+      "id": 4
+    },
+    {
+      "danhmucID": "2",
+      "images": "images/product/17.png",
+      "tensp": "Huawei MediaPad T5 10",
+      "thongtin": "Huawei MediaPad",
+      "masp": "3217",
+      "gia": "18000000",
+      "giamgia": "12100000",
+      "soluong": "123",
+      "mota": "<h3>Đ&aacute;nh gi&aacute; chi tiết Huawei MediaPad T5 10</h3>\n\n<p>Huawei MediaPad T5 10 l&agrave; một chiếc m&aacute;y t&iacute;nh bảng c&oacute; gi&aacute; b&aacute;n phải chăng đi k&egrave;m thiết kế hiện đại, sang trọng. N&oacute; cũng nổi bật với m&agrave;n h&igrave;nh lớn, sống động v&agrave; hiệu năng tốt.</p>\n\n<p><img alt=\"Huawei MediaPad T5 10\" src=\"https://fptshop.com.vn/Uploads/images/2015/SANPHAM/BinhNN4/Huawei%20MediaPad%20T5%2010/huawei-mediapad-t5-10-inch-fptshop-06.jpg\" /></p>\n\n<h3><br />\n<strong>Mỏng, nhẹ, bền</strong></h3>\n\n<p><strong><img alt=\"Huawei MediaPad T5 10\" src=\"https://fptshop.com.vn/Uploads/images/2015/SANPHAM/BinhNN4/Huawei%20MediaPad%20T5%2010/huawei-mediapad-t5-10-inch-fptshop-01.JPG\" /></strong></p>\n\n<p>Huawei MediaPad T5 10 l&agrave; một chiếc m&aacute;y t&iacute;nh bảng bắt mắt với thiết kế tinh tế. To&agrave;n bộ phần khung của sản phẩm sử dụng chất liệu kim loại chắc chắn, được chế t&aacute;c đối xứng mang lại cảm gi&aacute;c cầm nắm cao cấp v&agrave; kiểu d&aacute;ng đẹp. C&aacute;c chi tiết tr&ecirc;n Huawei MediaPad T5 10 được ho&agrave;n thiện một c&aacute;ch cẩn thận mang tới sự y&ecirc;n t&acirc;m hơn cho người d&ugrave;ng trong qu&aacute; tr&igrave;nh sử dụng. B&ecirc;n cạnh đ&oacute;, trọng lượng sản phẩm kh&aacute; nhẹ (khoảng 460g) sẽ đảm bảo bạn c&oacute; thể dễ cầm v&agrave; mang n&oacute; đi tới bất cứ nơi đ&acirc;u.</p>\n\n<h3><br />\n<strong>M&agrave;n h&igrave;nh Full HD 1080p tuyệt đẹp</strong></h3>\n\n<p><strong><img alt=\"Huawei MediaPad T5 10\" src=\"https://fptshop.com.vn/Uploads/images/2015/SANPHAM/BinhNN4/Huawei%20MediaPad%20T5%2010/huawei-mediapad-t5-10-inch-fptshop-02.JPG\" /></strong></p>\n\n<p>Huawei MediaPad T5 10 đi k&egrave;m với m&agrave;n h&igrave;nh 10,1 lớn hứa hẹn cung cấp cho người d&ugrave;ng một kh&ocirc;ng gian rộng r&atilde;i để giải tr&iacute;. M&agrave;n h&igrave;nh c&oacute; độ ph&acirc;n giải Full HD 1920 x 1200 pixel sắc n&eacute;t, c&ocirc;ng nghệ LCD v&agrave; tỷ lệ khung h&igrave;nh 16: 10 rất ph&ugrave; hợp để bạn xem phim, duyệt web hay xem c&aacute;c chương tr&igrave;nh TV.</p>\n",
+      "mausac": "Đen",
+      "thoigian": "20-10-2020",
+      "id": 5
+    },
+    {
+      "danhmucID": "3",
+      "images": "images/product/12.jpg",
+      "tensp": "Acer Aspire A315-34-P3LC/Pentium N5000/NX.HE3SV.004",
+      "thongtin": "Laptop chính hãng",
+      "masp": "64",
+      "gia": "18000000",
+      "giamgia": "17500000",
+      "soluong": "200",
+      "mota": "<h3>Đ&aacute;nh gi&aacute; chi tiết Acer Aspire A315-34-P3LC/Pentium N5000/NX.HE3SV.004</h3>\n\n<p>Với mục ti&ecirc;u hỗ trợ hiệu quả cho học sinh, sinh vi&ecirc;n v&agrave; những người l&agrave;m việc văn ph&ograve;ng,&nbsp;<a href=\"https://fptshop.com.vn/may-tinh-xach-tay/acer-aspire-a315-34-p3lc-pentium-n5000\">Acer Aspire A315-34-P3LC</a>&nbsp;thể hiện m&igrave;nh qua c&aacute;c ưu điểm đ&aacute;ng ch&uacute; &yacute; như m&agrave;n h&igrave;nh lớn, thiết kế h&agrave;i h&ograve;a, cơ động v&agrave; gi&aacute; b&aacute;n phải chăng dễ tiếp cận.</p>\n\n<p><img alt=\"Mô tả sản phẩm Acer Aspire A315-34-P3LC 1\" src=\"https://fptshop.com.vn/Uploads/images/2015/Tin-Tuc/AnhNQ/02/Mo-ta-san-pham-acer-aspire-a315-34-p3lc-3.jpg\" /></p>\n\n<p>&nbsp;</p>\n\n<h3><strong>Thiết kế đơn giản, hiện đại v&agrave; dễ mang theo</strong></h3>\n\n<p>Aspire A315-34-P3LC sở hữu diện mạo dễ g&acirc;y thiện cảm với kh&aacute;ch h&agrave;ng nhờ phong c&aacute;ch đơn giản m&agrave; h&agrave;i h&ograve;a. Acer đ&atilde; sử dụng nhựa l&agrave;m chất liệu ch&iacute;nh để sản xuất khung vỏ sản phẩm, nhờ đ&oacute;, h&atilde;ng tối ưu h&oacute;a trọng lượng thiết bị nhẹ nh&agrave;ng ở mức 1.7 kg, tạo điều kiện thuận lợi cho người d&ugrave;ng mang theo b&ecirc;n m&igrave;nh d&ugrave; l&agrave; đi học hay c&ocirc;ng t&aacute;c xa.</p>\n\n<p><img alt=\"Thiết kế đơn giản, hiện đại và dễ mang theo 1\" src=\"https://fptshop.com.vn/Uploads/images/2015/Tin-Tuc/AnhNQ/02/Mo-ta-san-pham-acer-aspire-a315-34-p3lc-4.jpg\" /></p>\n\n<p>&nbsp;</p>\n\n<h3><strong>Hiệu năng đ&aacute;p ứng đủ nhu cầu học tập v&agrave; l&agrave;m việc</strong></h3>\n\n<p>Với chip xử l&yacute; Intel Pentium N5000 xung nhịp 1.10 GHz kết hợp với bộ RAM 4GB DDR4, Aspire A315 đem lại hiệu năng ổn trong d&ograve;ng laptop phổ th&ocirc;ng, đi k&egrave;m khả năng hỗ trợ tốt c&aacute;c t&aacute;c vụ văn ph&ograve;ng như bộ c&ocirc;ng cụ Office. Ưu điểm của sản phẩm l&agrave; việc sở hữu ổ cứng SSD 256GB, gi&uacute;p đẩy nhanh tốc độ khởi động m&aacute;y v&agrave; sao ch&eacute;p th&ocirc;ng tin, đồng thời cho ph&eacute;p truy cập dữ liệu hiệu quả hơn. Ổ cứng SSD thể hiện sự bền bỉ vượt xa so với ổ HDD th&ocirc;ng thường.</p>\n\n<p><img alt=\"Hiệu năng đáp ứng đủ nhu cầu học tập và làm việc 1\" src=\"https://fptshop.com.vn/Uploads/images/2015/Tin-Tuc/AnhNQ/02/Mo-ta-san-pham-acer-aspire-a315-34-p3lc-5.jpg\" /></p>\n\n<p>&nbsp;</p>\n\n<h3><strong>Viền m&agrave;n h&igrave;nh&nbsp;</strong><strong>si&ecirc;u mỏng bao trọn</strong><strong>&nbsp;kh&ocirc;ng gian hiển thị lớn</strong></h3>\n\n<p>Một điểm nhấn kh&aacute;c trong thiết kế tổng thể của Aspire A315-34-P3LC nằm ở c&aacute;ch Acer r&uacute;t gọn viền m&agrave;n h&igrave;nh, đem tới cho sản phẩm diện mạo thời trang, gi&uacute;p chủ nh&acirc;n thiết bị dễ d&agrave;ng tập trung v&agrave;o nội dung tr&ecirc;n m&agrave;n h&igrave;nh.</p>\n\n<p>Kh&ocirc;ng gian hiển thị tr&ecirc;n chiếc laptop n&agrave;y rộng 15.6 inch, với độ ph&acirc;n giải đạt ngưỡng 1.366 x 768 pixels, c&ocirc;ng nghệ LED Backlit gi&uacute;p m&aacute;y giữ được độ mỏng gọn, tỏa &iacute;t nhiệt trong qu&aacute; tr&igrave;nh sử dụng v&agrave; tiết kiệm điện năng hiệu quả. H&igrave;nh ảnh hiển thị từ Acer Aspire A315 c&oacute; độ sắc n&eacute;t cao, trung thực, kết hợp với phần mềm Bluelight Shield nhằm hạn chế t&igrave;nh trạng mỏi mắt khi trải nghiệm trong thời gian d&agrave;i.</p>\n\n<p>&nbsp;</p>\n",
+      "mausac": "Đen",
+      "thoigian": "20-10-2020",
+      "id": 6
+    },
+    {
+      "danhmucID": "3",
+      "images": "images/product/13.jpg",
+      "tensp": "Acer Aspire A315 42 R2N R3 3200U/4Gb/256Gb/15.6\"FHD/Win 10",
+      "thongtin": "Laptop chính hãng",
+      "masp": "3131",
+      "gia": "15000000",
+      "giamgia": "13000000",
+      "soluong": "300",
+      "mota": "<h3>Đ&aacute;nh gi&aacute; chi tiết Acer Aspire A315-34-P3LC/Pentium N5000/NX.HE3SV.004</h3>\n\n<p>Với mục ti&ecirc;u hỗ trợ hiệu quả cho học sinh, sinh vi&ecirc;n v&agrave; những người l&agrave;m việc văn ph&ograve;ng,&nbsp;<a href=\"https://fptshop.com.vn/may-tinh-xach-tay/acer-aspire-a315-34-p3lc-pentium-n5000\">Acer Aspire A315-34-P3LC</a>&nbsp;thể hiện m&igrave;nh qua c&aacute;c ưu điểm đ&aacute;ng ch&uacute; &yacute; như m&agrave;n h&igrave;nh lớn, thiết kế h&agrave;i h&ograve;a, cơ động v&agrave; gi&aacute; b&aacute;n phải chăng dễ tiếp cận.</p>\n\n<p><img alt=\"Mô tả sản phẩm Acer Aspire A315-34-P3LC 1\" src=\"https://fptshop.com.vn/Uploads/images/2015/Tin-Tuc/AnhNQ/02/Mo-ta-san-pham-acer-aspire-a315-34-p3lc-3.jpg\" /></p>\n\n<p>&nbsp;</p>\n\n<h3><strong>Thiết kế đơn giản, hiện đại v&agrave; dễ mang theo</strong></h3>\n\n<p>Aspire A315-34-P3LC sở hữu diện mạo dễ g&acirc;y thiện cảm với kh&aacute;ch h&agrave;ng nhờ phong c&aacute;ch đơn giản m&agrave; h&agrave;i h&ograve;a. Acer đ&atilde; sử dụng nhựa l&agrave;m chất liệu ch&iacute;nh để sản xuất khung vỏ sản phẩm, nhờ đ&oacute;, h&atilde;ng tối ưu h&oacute;a trọng lượng thiết bị nhẹ nh&agrave;ng ở mức 1.7 kg, tạo điều kiện thuận lợi cho người d&ugrave;ng mang theo b&ecirc;n m&igrave;nh d&ugrave; l&agrave; đi học hay c&ocirc;ng t&aacute;c xa.</p>\n\n<p><img alt=\"Thiết kế đơn giản, hiện đại và dễ mang theo 1\" src=\"https://fptshop.com.vn/Uploads/images/2015/Tin-Tuc/AnhNQ/02/Mo-ta-san-pham-acer-aspire-a315-34-p3lc-4.jpg\" /></p>\n\n<p>&nbsp;</p>\n\n<h3><strong>Hiệu năng đ&aacute;p ứng đủ nhu cầu học tập v&agrave; l&agrave;m việc</strong></h3>\n\n<p>Với chip xử l&yacute; Intel Pentium N5000 xung nhịp 1.10 GHz kết hợp với bộ RAM 4GB DDR4, Aspire A315 đem lại hiệu năng ổn trong d&ograve;ng laptop phổ th&ocirc;ng, đi k&egrave;m khả năng hỗ trợ tốt c&aacute;c t&aacute;c vụ văn ph&ograve;ng như bộ c&ocirc;ng cụ Office. Ưu điểm của sản phẩm l&agrave; việc sở hữu ổ cứng SSD 256GB, gi&uacute;p đẩy nhanh tốc độ khởi động m&aacute;y v&agrave; sao ch&eacute;p th&ocirc;ng tin, đồng thời cho ph&eacute;p truy cập dữ liệu hiệu quả hơn. Ổ cứng SSD thể hiện sự bền bỉ vượt xa so với ổ HDD th&ocirc;ng thường.</p>\n\n<p><img alt=\"Hiệu năng đáp ứng đủ nhu cầu học tập và làm việc 1\" src=\"https://fptshop.com.vn/Uploads/images/2015/Tin-Tuc/AnhNQ/02/Mo-ta-san-pham-acer-aspire-a315-34-p3lc-5.jpg\" /></p>\n\n<p>&nbsp;</p>\n\n<h3><strong>Viền m&agrave;n h&igrave;nh&nbsp;</strong><strong>si&ecirc;u mỏng bao trọn</strong><strong>&nbsp;kh&ocirc;ng gian hiển thị lớn</strong></h3>\n\n<p>Một điểm nhấn kh&aacute;c trong thiết kế tổng thể của Aspire A315-34-P3LC nằm ở c&aacute;ch Acer r&uacute;t gọn viền m&agrave;n h&igrave;nh, đem tới cho sản phẩm diện mạo thời trang, gi&uacute;p chủ nh&acirc;n thiết bị dễ d&agrave;ng tập trung v&agrave;o nội dung tr&ecirc;n m&agrave;n h&igrave;nh.</p>\n\n<p>Kh&ocirc;ng gian hiển thị tr&ecirc;n chiếc laptop n&agrave;y rộng 15.6 inch, với độ ph&acirc;n giải đạt ngưỡng 1.366 x 768 pixels, c&ocirc;ng nghệ LED Backlit gi&uacute;p m&aacute;y giữ được độ mỏng gọn, tỏa &iacute;t nhiệt trong qu&aacute; tr&igrave;nh sử dụng v&agrave; tiết kiệm điện năng hiệu quả. H&igrave;nh ảnh hiển thị từ Acer Aspire A315 c&oacute; độ sắc n&eacute;t cao, trung thực, kết hợp với phần mềm Bluelight Shield nhằm hạn chế t&igrave;nh trạng mỏi mắt khi trải nghiệm trong thời gian d&agrave;i.</p>\n\n<p>&nbsp;</p>\n",
+      "mausac": "Đen",
+      "thoigian": "20-10-2020",
+      "id": 7
+    },
+    {
+      "danhmucID": "4",
+      "images": "images/product/14.jpg",
+      "tensp": "Tai nghe Samsung Galaxy Buds 2",
+      "thongtin": "Tai nghe Samsung",
+      "masp": "321",
+      "gia": "14200000",
+      "giamgia": "3800000",
+      "soluong": "100",
+      "mota": "<h2>ĐẶC ĐIỂM NỔI BẬT</h2>\n\n<p><strong>Những cải tiến hiệu quả tr&ecirc;n Samsung Galaxy Buds 2 về dung lượng pin, khả năng sạc nhanh, thiết kế v&agrave; chất lượng &acirc;m thanh sẽ gi&uacute;p bạn c&oacute; được trải nghiệm rất kh&oacute; kiếm t&igrave;m ở một chiếc tai nghe kh&ocirc;ng d&acirc;y n&agrave;o kh&aacute;c.</strong></p>\n\n<p><img alt=\"Tai nghe Samsung Galaxy Buds 2\" src=\"https://images.fpt.shop/unsafe/fit-in/filters:quality(90)/fptshop.com.vn/Uploads/images/2015/Tin-Tuc/05/Mo-ta-san-pham-tai-nghe-samsung-galaxy-buds-2-9.jpg\" /></p>\n\n<h3><strong>Chiếc tai nghe chạm tới đỉnh cao của chất &acirc;m</strong></h3>\n\n<p>Sự hỗ trợ c&ocirc;ng nghệ từ AKG đem tới cho Galaxy Buds 2 hệ thống loa hai chiều, gi&uacute;p thể hiện xuất sắc cả những nốt &acirc;m cao v&agrave; c&aacute;c &acirc;m trầm. Ngo&agrave;i ra, việc phối hợp nhịp nh&agrave;ng giữa ba mic sẽ đảm bảo chất lượng cuộc gọi lu&ocirc;n lu&ocirc;n r&otilde; r&agrave;ng, duy tr&igrave; thời lượng cuộc gọi d&agrave;i l&acirc;u nhờ dung lượng pin lớn. Với Galaxy Buds 2, bạn sẽ c&oacute; được trải nghiệm &acirc;m thanh ấn tượng nhất</p>\n",
+      "mausac": "Đen",
+      "thoigian": "20-10-2020",
+      "id": 8
+    }
+  ],
+  "baiviet": [
+    {
+      "id": 1,
+      "tieude": "Đã có thể pre-order Huawei P40 tại Shop",
+      "images": "images/blog/blog-img/1.jpg",
+      "mota": "Siêu phẩm Huawei P40 và P40 Pro của Huawei đã được FPT Shop mở pre-order chính thức từ ngày hôm nay.",
+      "chitiet": "<p>Apple ph&aacute;t biểu rằng Dark Sky tr&ecirc;n iOS của&nbsp;<a href=\"https://fptshop.com.vn/dien-thoai/apple-iphone\">iPhone</a>&nbsp;hiện sẽ kh&ocirc;ng c&oacute; thay đổi g&igrave;, nhưng phi&ecirc;n bản Android v&agrave; WearOS sẽ bị đ&oacute;ng v&agrave;o th&aacute;ng Bảy tới.</p>\n\n<p><em>&ldquo;Mục ti&ecirc;u của ch&uacute;ng t&ocirc;i vẫn lu&ocirc;n l&agrave; cung cấp cho thế giới th&ocirc;ng tin thời tiết tốt nhất c&oacute; thể, để gi&uacute;p c&agrave;ng nhiều người được kh&ocirc; r&aacute;o v&agrave; an to&agrave;n, v&agrave; l&agrave;m theo c&aacute;ch t&ocirc;n trọng quyền ri&ecirc;ng tư của bạn&rdquo;</em>, Đồng s&aacute;ng lập của Dark Sky, &ocirc;ng Adam Grossman ph&aacute;t biểu trong b&agrave;i đăng của m&igrave;nh.&nbsp;<em>&ldquo;Kh&ocirc;ng c&oacute; nơi n&agrave;o để đạt được mục ti&ecirc;u n&agrave;y tốt hơn ở Apple. Ch&uacute;ng t&ocirc;i rất phấn kh&iacute;ch khi c&oacute; cơ hội được tiếp cận với nhiều người hơn nữa, với t&aacute;c động mạnh hơn nữa, hơn nhiều so với những g&igrave; ch&uacute;ng t&ocirc;i c&oacute; thể l&agrave;m một m&igrave;nh.&rdquo;</em></p>\n\n<p><img alt=\"ứng dụng Dark Sky\" src=\"https://cdn.fptshop.com.vn/uploads/images/tin-tuc/118188/Originals/no.png\" /></p>\n\n<p>Dark Sky tr&ecirc;n iOS &ldquo;hiện tại&rdquo; vẫn sẽ kh&ocirc;ng c&oacute; thay đổi g&igrave;, v&agrave; bạn vẫn c&oacute; thể mua n&oacute; tr&ecirc;n App Store với gi&aacute; $3.99. Tuy nhi&ecirc;n hiện bạn kh&ocirc;ng thể tải phi&ecirc;n bản Android v&agrave; WearOS cho&nbsp;<a href=\"https://fptshop.com.vn/smartwatch/apple\">Apple Watch</a>&nbsp;được nữa, v&agrave; kể cả bạn đ&atilde; c&oacute; tải ứng dụng từ trước đ&oacute;, bạn cũng chỉ c&oacute; thể d&ugrave;ng đến ng&agrave;y 01 th&aacute;ng Bảy. Sau đ&oacute; ứng dụng tr&ecirc;n hai nền tảng n&agrave;y sẽ ho&agrave;n to&agrave;n bị gỡ bỏ. Theo &ocirc;ng Grossman cho biết, nếu bạn vẫn c&ograve;n theo d&otilde;i ứng dụng đến tận ng&agrave;y đ&oacute; th&igrave; sẽ nhận được đền b&ugrave;.</p>\n\n<p>API của Dark Sky vẫn tiếp tục c&aacute;c chức năng đến hết năm 2021, nhưng Grossman n&oacute;i rằng Dark Sky sẽ kh&ocirc;ng được chấp thuận đăng k&iacute; mới để d&ugrave;ng API nữa. Điều n&agrave;y c&oacute; nghĩa l&agrave;, c&aacute;c ứng dụng b&ecirc;n thứ ba kh&aacute;c sẽ kh&ocirc;ng thể d&ugrave;ng dữ liệu thời tiết của Dark Sky v&agrave;o ứng dụng của họ nữa.</p>\n\n<p>Đồng thời tr&ecirc;n&nbsp;<a href=\"https://darksky.net/\">trang web của Dark Sky</a>, bạn sẽ chỉ c&oacute; thể xem dự b&aacute;o thời tiết, bản đồ v&agrave; m&atilde; nh&uacute;ng đến ng&agrave;y 01 th&aacute;ng Bảy. Sau ng&agrave;y đ&oacute;, trang web vẫn tồn tại để &ldquo;hỗ trợ API v&agrave; c&aacute;c kh&aacute;ch h&agrave;ng d&ugrave;ng phi&ecirc;n bản iOS&rdquo;.</p>\n\n<p>Trang web thương hiệu của Dark Sky hiện cũng đ&atilde; được cập nhật th&agrave;nh &ldquo;Dark Sky by Apple&rdquo;.</p>\n\n<p><img alt=\"Dark Sky by Apple\" src=\"https://cdn.fptshop.com.vn/uploads/images/tin-tuc/118188/Originals/darkaky.png\" /></p>\n",
+      "userID": "1",
+      "thoigian": "20-12-2020"
+    },
+    {
+      "tieude": "Vệ sinh, khử trùng và dán mới màn hình điện thoại miễn phí tại FPT Shop",
+      "images": "images/blog/blog-img/2.jpg",
+      "mota": "Từ ngày 01/05 – 31/05, FPT Shop triển khai chương trình vệ sinh, khử trùng và dán mới màn hình điện thoại miễn phí cho khách hàng đăng kí số điện thoại trên livestream của FPT Shop.",
+      "chitiet": "<h1>Vệ sinh, khử tr&ugrave;ng v&agrave; d&aacute;n mới m&agrave;n h&igrave;nh điện thoại miễn ph&iacute; tại FPT Shop</h1>\n\n<h2>Từ ng&agrave;y 01/05 &ndash; 31/05, FPT Shop triển khai chương tr&igrave;nh vệ sinh, khử tr&ugrave;ng v&agrave; d&aacute;n mới m&agrave;n h&igrave;nh điện thoại miễn ph&iacute; cho kh&aacute;ch h&agrave;ng đăng k&iacute; số điện thoại tr&ecirc;n livestream của FPT Shop.</h2>\n\n<ul>\n\t<li>\n\t<h3><a href=\"https://fptshop.com.vn/tin-tuc/tin-khuyen-mai/f-studio-by-fpt-len-ke-loa-di-dong-ultimate-ears-64373\">F.Studio by FPT l&ecirc;n kệ loa di động Ultimate Ears</a></h3>\n\t</li>\n\t<li>\n\t<h3><a href=\"https://fptshop.com.vn/tin-tuc/tin-khuyen-mai/mua-loa-bluetooth-rocky-va-remax-m1-vua-duoc-giam-20-vua-nhan-them-the-nho-8gb-200-000-dong-57930\">Mua loa bluetooth Rocky v&agrave; Remax M1 vừa được giảm 20%, vừa nhận th&ecirc;m thẻ nhớ 8GB 200.000 đồng</a></h3>\n\t</li>\n\t<li>\n\t<h3><a href=\"https://fptshop.com.vn/tin-tuc/tin-khuyen-mai/fpt-shop-tang-smart-tivi-va-giam-150000-dong-cho-dien-thoai-vsmart-joy-2-119567\">FPT Shop tặng smart tivi v&agrave; giảm 150.000 đồng cho điện thoại Vsmart Joy 2+</a></h3>\n\t</li>\n</ul>\n\n<p>Nhiều người d&ugrave;ng thường qu&ecirc;n rằng smartphone đang sử dụng chứa rất nhiều bụi bẩn v&agrave; vi khuẩn. Đặc biệt trong t&igrave;nh h&igrave;nh dịch bệnh Covid-19 c&ograve;n nhiều diễn biến phức tạp, th&igrave; việc khử tr&ugrave;ng vật dụng h&agrave;ng ng&agrave;y m&agrave; smartphone với tần suất cầm nắm lớn l&agrave; v&ocirc; c&ugrave;ng cần thiết. Hiểu được điều đ&oacute;, FPT Shop sẽ hỗ trợ vệ sinh, khử tr&ugrave;ng v&agrave; d&aacute;n mới m&agrave;n h&igrave;nh&nbsp;<a href=\"https://fptshop.com.vn/dien-thoai\">điện thoại</a>&nbsp;miễn ph&iacute; cho người d&ugrave;ng đăng k&yacute; số điện thoại tr&ecirc;n livestream tại&nbsp;<a href=\"https://bit.ly/FPTShop_Fanpagelivestream\">34 fanpage</a>&nbsp;của FPT Shop v&agrave;o 12h v&agrave; 20h mỗi ng&agrave;y từ ng&agrave;y 01/05 &ndash; 31/05. Theo đ&oacute;, nếu bạn đ&atilde; l&acirc;u ng&agrave;y chưa vệ sinh điện thoại v&igrave; gi&atilde;n c&aacute;ch x&atilde; hội hoặc chưa biết c&aacute;ch vệ sinh như thế n&agrave;o cho đ&uacute;ng th&igrave; h&atilde;y đến ngay FPT Shop để tham gia chương tr&igrave;nh chăm s&oacute;c điện thoại miễn ph&iacute;.</p>\n\n<p>Cụ thể, kh&aacute;ch h&agrave;ng c&oacute; thể mang điện thoại bất kỳ, kh&ocirc;ng ph&acirc;n biệt mua tại đ&acirc;u, của thương hiệu n&agrave;o,&hellip; đến FPT Shop để được xịt khử tr&ugrave;ng v&agrave; lau ch&ugrave;i diệt khuẩn bằng những dụng cụ chuy&ecirc;n dụng d&agrave;nh cho c&aacute;c thiết bị số. Sau đ&oacute;, nh&acirc;n vi&ecirc;n sẽ tiến h&agrave;nh d&aacute;n mới m&agrave;n h&igrave;nh bằng miếng d&aacute;n từ 2 mặt của Nhật Bản để thiết bị vẫn mới v&agrave; đẹp như ban đầu. Nhờ đ&oacute;, người d&ugrave;ng c&oacute; thể thoải m&aacute;i sử dụng điện thoại m&agrave; kh&ocirc;ng lo c&aacute;c vết xước do bị cọ x&aacute;t, c&aacute;c vết ố tr&ecirc;n m&agrave;n h&igrave;nh cũng như chống b&aacute;m dấu v&acirc;n tay suốt qu&aacute; tr&igrave;nh sử dụng. Ngo&agrave;i ra, bạn c&ograve;n được hỗ trợ c&agrave;i đặt, tư vấn v&agrave; hướng dẫn sử dụng điện thoại m&agrave; kh&ocirc;ng phải tốn bất kỳ chi ph&iacute; n&agrave;o. Bạn cũng c&oacute; thể t&ugrave;y chọn đổi từ miếng d&aacute;n m&agrave;n h&igrave;nh sang k&iacute;nh cường lực với mức gi&aacute; ưu đ&atilde;i nhất từ FPT Shop.</p>\n\n<p><img alt=\"\" src=\"https://cdn.fptshop.com.vn/uploads/images/tin-tuc/119577/Originals/Smartphone-SPA-1.jpg\" /></p>\n\n<p><em>Từ ng&agrave;y 01/05 &ndash; 31/05, FPT Shop hỗ trợ vệ sinh, khử tr&ugrave;ng v&agrave; d&aacute;n mới m&agrave;n h&igrave;nh điện thoại miễn ph&iacute; cho người d&ugrave;ng đăng k&yacute; số điện thoại tr&ecirc;n livestream của FPT Shop.</em></p>\n\n<p>Đ&aacute;ng ch&uacute; &yacute;, FPT Shop kh&ocirc;ng chỉ mang đến chương tr&igrave;nh ưu đ&atilde;i hấp dẫn m&agrave; c&ograve;n d&agrave;nh nhiều cơ hội tốt nhất cho kh&aacute;ch h&agrave;ng. Cụ thể, sau khi hết 10.000 voucher &lsquo;spa điện thoại&rsquo; miễn ph&iacute;, bạn vẫn c&ograve;n cơ hội nhận ngay voucher 50.000 đồng chọn mua phụ kiện tr&ecirc;n 100.000 đồng v&agrave; vệ sinh, khử tr&ugrave;ng điện thoại miễn ph&iacute; với số lượng l&ecirc;n đến 10.000 voucher. Đặc biệt trong th&aacute;ng 5 n&agrave;y, to&agrave;n bộ phụ kiện giảm đến 20% v&agrave; giảm sốc đến 49% ri&ecirc;ng 3 ng&agrave;y cuối tuần cho một số sản phẩm sạc dự ph&ograve;ng v&agrave; loa bluetooth. Như vậy, bạn ho&agrave;n to&agrave;n c&oacute; thể sở hữu về tay nhiều m&oacute;n phụ kiện ch&iacute;nh h&atilde;ng thuộc c&aacute;c thương hiệu danh tiếng tr&ecirc;n thế giới như UME, i.Value, Anker,&hellip; tại FPT Shop với mức gi&aacute; tốt nhất cho &lsquo;dế cưng&rsquo; của m&igrave;nh. B&ecirc;n cạnh đ&oacute;, nhằm tạo điều kiện tối đa cho kh&aacute;ch h&agrave;ng mua sắm trong m&ugrave;a dịch, FPT Shop tiếp tục đẩy mạnh ch&iacute;nh s&aacute;ch giao h&agrave;ng tận nh&agrave; trong 60 ph&uacute;t cho đơn h&agrave;ng mua phụ kiện từ 100.000 đồng. C&aacute;ch thức thanh to&aacute;n cũng rất đa dạng, bạn c&oacute; thể thanh to&aacute;n khi nhận h&agrave;ng hoặc thanh to&aacute;n online qua thẻ, hạn chế tiếp x&uacute;c với tiền mặt để tr&aacute;nh l&acirc;y nhiễm bệnh.</p>\n\n<p>Để đăng k&yacute; tham gia chương tr&igrave;nh &lsquo;spa điện thoại&rsquo; miễn ph&iacute; hay nhận voucher mua phụ kiện trị gi&aacute; 50.000 đồng, bạn c&oacute; thể để lại số điện thoại tr&ecirc;n livestream tại bất kỳ fanpage n&agrave;o của FPT Shop. Một lưu &yacute; nhỏ l&agrave; mỗi số điện thoại chỉ nhận được 1 voucher trong suốt thời gian diễn ra chương tr&igrave;nh v&agrave; thời gian sử dụng voucher l&agrave; 7 ng&agrave;y kể từ ng&agrave;y kh&aacute;ch h&agrave;ng nhận được SMS từ FPT Shop.</p>\n\n<p><img alt=\"\" src=\"https://cdn.fptshop.com.vn/uploads/images/tin-tuc/119577/Originals/Smartphone-SPA-2.jpg\" /></p>\n\n<p><em>FPT Shop tặng 10.000 voucher &lsquo;spa điện thoại&rsquo; miễn ph&iacute; v&agrave; 10.000 voucher giảm gi&aacute; 50.000 đồng chọn mua phụ kiện tr&ecirc;n 100.000 đồng cho người d&ugrave;ng.</em></p>\n",
+      "userID": "1",
+      "thoigian": "20-10-2020",
+      "id": 2
+    },
+    {
+      "tieude": "Samsung Galaxy A11 ra mắt: camera chụp góc siêu rộng 115 độ chân thực như mắt nhìn",
+      "images": "images/blog/blog-img/3.jpg",
+      "mota": "Samsung Galaxy A11 là chiếc điện thoại thông minh có những cải tiến vượt trội, là minh chứng của Samsung trong việc không ngừng mang đến sự nâng cấp trong mỗi sản phẩm, đáp ứng đầy đủ mọi nhu cầu sử dụng điện thoại cho người dùng trẻ.",
+      "chitiet": "<h2><strong>Bắt trọn từng g&oacute;c ảnh ch&acirc;n thực như mắt nh&igrave;n với camera g&oacute;c rộng 115 độ</strong></h2>\n\n<p><strong><img alt=\"\" src=\"https://cdn.fptshop.com.vn/uploads/images/tin-tuc/119575/Originals/013_galaxya11_blue_back.jpg\" /></strong></p>\n\n<p>Galaxy A11 sở hữu bộ 3 camera sau cao cấp h&agrave;ng đầu ph&acirc;n kh&uacute;c smartphone 4 triệu đồng, cho h&igrave;nh ảnh sắc n&eacute;t, mang đến những trải nghiệm đa dạng trong việc s&aacute;ng tạo những khoảnh khắc đẹp tr&ecirc;n chiếc điện thoại của m&igrave;nh. Điểm nổi bật của bộ ba camera n&agrave;y ch&iacute;nh l&agrave; camera chụp g&oacute;c si&ecirc;u rộng 115 độ gi&uacute;p người d&ugrave;ng bắt được những khung ảnh thi&ecirc;n nhi&ecirc;n h&ugrave;ng vĩ, rộng lớn v&agrave; ch&acirc;n thực như mắt nh&igrave;n. B&ecirc;n cạnh đ&oacute;, camera ch&iacute;nh 13MP khẩu độ F1.8 c&oacute; khả năng chụp ảnh chinh phục b&oacute;ng tối, cho kết quả l&agrave; những bức ảnh đẹp r&otilde; n&eacute;t kể cả trong điều kiện thiếu s&aacute;ng. Camera chụp x&oacute;a ph&ocirc;ng chuy&ecirc;n nghiệp 5MP gi&uacute;p nổi bật chủ thể, mang đến trải nghiệm chụp ảnh ch&acirc;n dung hoặc chụp những vật thể xung quanh một c&aacute;ch đầy nghệ thuật. Ngo&agrave;i ra, camera selfie 8MP với chế độ Live Focus sẽ cho những bức ảnh selfie chất lượng khiến người d&ugrave;ng h&agrave;i l&ograve;ng.</p>\n\n<h2><strong>Hoạt động bền bỉ, kết nối cả ng&agrave;y nhờ sạc nhanh si&ecirc;u tốc 15W</strong></h2>\n\n<p><strong><img alt=\"\" src=\"https://cdn.fptshop.com.vn/uploads/images/tin-tuc/119575/Originals/007_galaxya11_white_back.jpg\" /></strong></p>\n\n<p>Galaxy A11 được Samsung t&iacute;ch hợp c&ocirc;ng nghệ sạc nhanh si&ecirc;u tốc c&ocirc;ng suất 15W, hỗ trợ người d&ugrave;ng nạp năng lượng cho điện thoại nhanh nhất c&oacute; thể, nhờ đ&oacute; người d&ugrave;ng sẽ được tối ưu h&oacute;a thời lượng sử dụng điện thoại cho c&aacute;c hoạt động cần thiết mỗi ng&agrave;y. Cụ thể, chỉ cần 10 ph&uacute;t sạc, người d&ugrave;ng c&oacute; thể tận hưởng đến 3 giờ li&ecirc;n lạc, 3 giờ xem phim, 10 giờ nghe nhạc kh&ocirc;ng gi&aacute;n đoạn.</p>\n\n<p>Hơn nữa, Galaxy A11 c&ograve;n c&oacute; dung lượng pin 4.000mAh bền bỉ cho cả ng&agrave;y d&agrave;i hoạt động. Được trang bị những t&iacute;nh năng hữu &iacute;ch, Galaxy A11 sẽ đem đến những cung bậc cảm x&uacute;c v&agrave; những trải nghiệm liền mạch cho người d&ugrave;ng, đặc biệt l&agrave; giới trẻ c&oacute; nhu cầu sử dụng điện thoại thường xuy&ecirc;n.</p>\n\n<h2><strong>Cấu h&igrave;nh ổn định, trải nghiệm m&atilde;n nh&atilde;n tr&ecirc;n m&agrave;n h&igrave;nh tr&agrave;n viền v&ocirc; cực Infinity-O 6,4&rsquo;&rsquo;</strong></h2>\n\n<p><strong><img alt=\"\" src=\"https://cdn.fptshop.com.vn/uploads/images/tin-tuc/119575/Originals/008_galaxya11_white_front.jpg\" /></strong></p>\n\n<p>Galaxy A11 sở hữu cấu h&igrave;nh ổn định gi&uacute;p đ&aacute;p ứng tốt mọi nhu cầu của người d&ugrave;ng từ li&ecirc;n lạc, chụp ảnh đến giải tr&iacute;. Hệ điều h&agrave;nh&nbsp;<a href=\"https://fptshop.com.vn/tin-tuc/tags/android-10\">Android 10</a>&nbsp;v&agrave; giao diện One UI 2.0 mới nhất được c&agrave;i đặt sẵn tr&ecirc;n Galaxy A11 với khả năng xử l&yacute; nhanh c&aacute;c t&aacute;c vụ của người d&ugrave;ng, cho trải nghiệm sử dụng mượt m&agrave;.</p>\n\n<p>Kh&ocirc;ng chỉ g&acirc;y ấn tượng bởi cấu h&igrave;nh, Galaxy A11 c&ograve;n l&agrave; điện thoại Galaxy A đầu ti&ecirc;n dưới 4 triệu đồng sở hữu m&agrave;n h&igrave;nh Infinity-O thời thượng, gi&uacute;p mở rộng tỉ lệ hiển thị đến mức tối đa. Hơn nữa, d&ugrave; l&agrave; học tập hay l&agrave;m việc, xem phim hay chơi&nbsp;<a href=\"https://fptshop.com.vn/tin-tuc/giai-tri\">game</a>, người d&ugrave;ng đều sẽ được tận hưởng những trải nghiệm thị gi&aacute;c tuyệt vời qua m&agrave;n h&igrave;nh độ ph&acirc;n giải HD+ 6,4 inch, cho h&igrave;nh ảnh r&otilde; n&eacute;t đến từng chi tiết nhỏ.</p>\n\n<p>Ngo&agrave;i ra, Galaxy A11 c&oacute; thiết kế si&ecirc;u mỏng 8mm, gọn nhẹ v&agrave; thời trang, mang đến sự thuận tiện cho mọi thao t&aacute;c khi sử dụng điện thoại. Galaxy A11 c&ograve;n được trang bị c&ocirc;ng nghệ bảo mật với qu&eacute;t v&acirc;n tay mặt lưng, chỉ một chạm gi&uacute;p người d&ugrave;ng mở kh&oacute;a nhanh ch&oacute;ng, tiện lợi. Bộ nhớ c&oacute; thể mở rộng đến 512GB th&ocirc;ng qua thẻ nhớ rời.</p>\n",
+      "userID": "1",
+      "thoigian": "20-10-2020",
+      "id": 3
+    },
+    {
+      "tieude": "Nếu muốn bảo mật tốt hơn trên điện thoại Android, hãy kiểm tra lại quyền của các ứng dụng",
+      "images": "images/blog/blog-img/4.jpg",
+      "mota": "Google vừa mới gỡ bỏ hàng tá các ứng dụng trên Google Play Store vì chúng vi phạm chính sách của hãng trong thời gian gần đây. Có tổng cộng là 101 ứng dụng thuộc về một nhóm duy nhất với tên gọi 2NAD, nhóm này sử dụng 27 tên của nhà phát triển giả để phát hành các ứng dụng đáng ngờ.",
+      "chitiet": "<p>Trong thời gian tới&nbsp;<a href=\"https://fptshop.com.vn/dien-thoai/huawei\" target=\"_blank\">Huawei</a>&nbsp;c&oacute; thể ra mắt Huawei P Smart 2020 đi k&egrave;m với dịch vụ Google Mobile Services (GMS).</p>\n\n<p>Th&ocirc;ng tin đ&atilde; chia sẻ rằng Huawei P Smart 2020 sẽ trang bị tấm nền IPS LCD 6.21 inch c&oacute; lỗ kho&eacute;t h&igrave;nh &ldquo;giọt nước&rdquo;, hỗ trợ độ ph&acirc;n giải Full HD+ v&agrave; tỉ lệ khung h&igrave;nh 19.5:9.</p>\n\n<p><img alt=\"Huawei\" src=\"https://cdn.fptshop.com.vn/uploads/images/tin-tuc/119568/Originals/huawei.jpg\" /></p>\n\n<p>Huawei P Smart 2020 chỉ trang bị bộ vi xử l&yacute; cũ l&agrave; Kirin 710F đi k&egrave;m với 4 GB RAM v&agrave; 128 GB bộ nhớ trong.</p>\n\n<p>Mặt lưng của m&aacute;y c&oacute; hệ thống 3 camera bao gồm cảm biến ch&iacute;nh 13 MP khẩu độ f / 2.0, cảm biến độ s&acirc;u 2 MP v&agrave; một ống k&iacute;nh 2 MP. Ở ph&iacute;a trước, m&aacute;y c&oacute; một camera selfie 8 MP.</p>\n\n<p>Huawei P Smart 2020 t&iacute;ch hợp vi&ecirc;n pin dung lượng 3.400 mAh kh&ocirc;ng hỗ trợ sạc nhanh, v&acirc;n tay ở mặt lưng, c&agrave;i sẵn hệ điều h&agrave;nh Android 9 Pie với giao diện EMUI 9.1 v&agrave; hỗ trợ c&aacute;c dịch vụ của Google.</p>\n",
+      "userID": "1",
+      "thoigian": "20-10-2020",
+      "id": 4
+    }
+  ],
+  "slider": [
+    {
+      "id": 1,
+      "tieude": "Mua Hàng Từ Xa Giao Hàng Tận Nhà ",
+      "images": "images/slider/fornt-img/1.png",
+      "mota": "iphone",
+      "trangthai": "1"
+    },
+    {
+      "tieude": "Mua Hàng Từ Xa Giao Hàng Tận Nhà  1",
+      "images": "images/slider/fornt-img/2.png",
+      "mota": "slider",
+      "trangthai": "1",
+      "id": 2
+    }
+  ],
+  "quangcao": [
+    {
+      "id": 1,
+      "tieude": "anh nen 1",
+      "images": "images/banner/big-img/1.png",
+      "trangthai": "1"
+    },
+    {
+      "tieude": "banner2",
+      "images": "images/bg/1.png",
+      "trangthai": "0",
+      "id": 2
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "user": "lethi",
+      "pass": "12312312",
+      "vaitro": "1",
+      "hoten": "Le Thi",
+      "anhdd": "images/comment/1.png",
+      "diachi": "89 le duc tho my dinh nam tu liem ha noi",
+      "email": "ledinhthi209@gmail.com"
+    }
+  ],
+  "binhluan": [
+    {
+      "sanphamID": "1",
+      "noidung": "Sản Phẩm Rất Tốt",
+      "userID": 1,
+      "id": 1
+    },
+    {
+      "sanphamID": "5",
+      "noidung": "very good",
+      "userID": 1,
+      "id": 4
+    },
+    {
+      "sanphamID": "7",
+      "noidung": "sản phẩm rất bền",
+      "userID": 1,
+      "id": 5
+    }
+  ],
+  "congty": [
+    {
+      "id": 1,
+      "tencty": "lethi",
+      "logo": "images/logo/4.png",
+      "sdt": "0986966813",
+      "email": "ledinhthi209@gmail.com",
+      "diachi": "89 Lê Đức Thọ Mỹ Đình Nam Từ Liêm Hà Nội Việt Nam"
+    }
+  ],
+  "dathang": [
+    {
+      "images": "images/product/2.png",
+      "tensp": "iphone 11 pro max",
+      "gia": "9500000",
+      "soluong": 4,
+      "trangthai": 1,
+      "id": 14
+    },
+    {
+      "images": "images/product/12.jpg",
+      "tensp": "Acer Aspire A315-34-P3LC/Pentium N5000/NX.HE3SV.004",
+      "gia": "17500000",
+      "soluong": "1",
+      "trangthai": 1,
+      "id": 16
+    },
+    {
+      "images": "images/product/2.png",
+      "tensp": "iphone 11 pro max",
+      "gia": "9500000",
+      "soluong": 6,
+      "trangthai": 1,
+      "id": 17
+    },
+    {
+      "images": "images/product/13.jpg",
+      "tensp": "Acer Aspire A315 42 R2N R3 3200U/4Gb/256Gb/15.6\"FHD/Win 10",
+      "gia": "13000000",
+      "soluong": 2,
+      "trangthai": 1,
+      "id": 18
+    }
+  ],
+  "lienhe": [
+    {
+      "hoten": "Lê Đình Thi",
+      "email": "ledinhthi2909@gmail.com",
+      "noidung": "sadasdasda",
+      "id": 6
+    },
+    {
+      "hoten": "Thi Lê",
+      "email": "thildph07746@fpt.edu.vn",
+      "noidung": "Sản Phẩm Gặp vấn đề",
+      "id": 10
+    }
+  ]
+}

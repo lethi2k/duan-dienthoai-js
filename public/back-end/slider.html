@@ -1,0 +1,739 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Lê Thi By FPoly</title>
+  <!-- Tell the browser to be responsive to screen width -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="plugins/fontawesome-free/css/all.min.css">
+  <!-- Ionicons -->
+  <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
+  <!-- DataTables -->
+  <link rel="stylesheet" href="plugins/datatables-bs4/css/dataTables.bootstrap4.min.css">
+  <link rel="stylesheet" href="plugins/datatables-responsive/css/responsive.bootstrap4.min.css">
+  <!-- Theme style -->
+  <link rel="stylesheet" href="dist/css/adminlte.min.css">
+  <!-- Google Font: Source Sans Pro -->
+  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700" rel="stylesheet">
+  <style>
+    .fixwidth{
+      width: 100px;
+    }
+  </style>
+  
+    
+</head>
+<body class="hold-transition sidebar-mini"  onload="LoadListUser();">
+<div class="wrapper">
+  <!-- Navbar -->
+  <nav class="main-header navbar navbar-expand navbar-white navbar-light">
+    <!-- Left navbar links -->
+    <ul class="navbar-nav">
+      <li class="nav-item">
+        <a class="nav-link" data-widget="pushmenu" href="#" role="button"><i class="fas fa-bars"></i></a>
+      </li>
+    </ul>
+
+    <!-- SEARCH FORM -->
+    <form class="form-inline ml-3">
+      <div class="input-group input-group-sm">
+        <input class="form-control form-control-navbar" type="search" placeholder="Search" aria-label="Search">
+        <div class="input-group-append">
+          <button class="btn btn-navbar" type="submit">
+            <i class="fas fa-search"></i>
+          </button>
+        </div>
+      </div>
+    </form>
+
+    <!-- Right navbar links -->
+    <ul class="navbar-nav ml-auto">
+      <!-- Messages Dropdown Menu -->
+      <li class="nav-item dropdown">
+        <a class="nav-link" data-toggle="dropdown" href="#">
+          <i class="far fa-comments"></i>
+          <span class="badge badge-danger navbar-badge">3</span>
+        </a>
+        <div class="dropdown-menu dropdown-menu-lg dropdown-menu-right">
+          <a href="#" class="dropdown-item">
+            <!-- Message Start -->
+            <div class="media">
+              <img src="dist/img/user1-128x128.jpg" alt="User Avatar" class="img-size-50 mr-3 img-circle">
+              <div class="media-body">
+                <h3 class="dropdown-item-title">
+                  Brad Diesel
+                  <span class="float-right text-sm text-danger"><i class="fas fa-star"></i></span>
+                </h3>
+                <p class="text-sm">Call me whenever you can...</p>
+                <p class="text-sm text-muted"><i class="far fa-clock mr-1"></i> 4 Hours Ago</p>
+              </div>
+            </div>
+            <!-- Message End -->
+          </a>
+          <div class="dropdown-divider"></div>
+          <a href="#" class="dropdown-item">
+            <!-- Message Start -->
+            <div class="media">
+              <img src="dist/img/user8-128x128.jpg" alt="User Avatar" class="img-size-50 img-circle mr-3">
+              <div class="media-body">
+                <h3 class="dropdown-item-title">
+                  John Pierce
+                  <span class="float-right text-sm text-muted"><i class="fas fa-star"></i></span>
+                </h3>
+                <p class="text-sm">I got your message bro</p>
+                <p class="text-sm text-muted"><i class="far fa-clock mr-1"></i> 4 Hours Ago</p>
+              </div>
+            </div>
+            <!-- Message End -->
+          </a>
+          <div class="dropdown-divider"></div>
+          <a href="#" class="dropdown-item">
+            <!-- Message Start -->
+            <div class="media">
+              <img src="dist/img/user3-128x128.jpg" alt="User Avatar" class="img-size-50 img-circle mr-3">
+              <div class="media-body">
+                <h3 class="dropdown-item-title">
+                  Nora Silvester
+                  <span class="float-right text-sm text-warning"><i class="fas fa-star"></i></span>
+                </h3>
+                <p class="text-sm">The subject goes here</p>
+                <p class="text-sm text-muted"><i class="far fa-clock mr-1"></i> 4 Hours Ago</p>
+              </div>
+            </div>
+            <!-- Message End -->
+          </a>
+          <div class="dropdown-divider"></div>
+          <a href="#" class="dropdown-item dropdown-footer">See All Messages</a>
+        </div>
+      </li>
+      <!-- Notifications Dropdown Menu -->
+      <li class="nav-item dropdown">
+        <a class="nav-link" data-toggle="dropdown" href="#">
+          <i class="far fa-bell"></i>
+          <span class="badge badge-warning navbar-badge">15</span>
+        </a>
+        <div class="dropdown-menu dropdown-menu-lg dropdown-menu-right">
+          <span class="dropdown-item dropdown-header">15 Notifications</span>
+          <div class="dropdown-divider"></div>
+          <a href="#" class="dropdown-item">
+            <i class="fas fa-envelope mr-2"></i> 4 new messages
+            <span class="float-right text-muted text-sm">3 mins</span>
+          </a>
+          <div class="dropdown-divider"></div>
+          <a href="#" class="dropdown-item">
+            <i class="fas fa-users mr-2"></i> 8 friend requests
+            <span class="float-right text-muted text-sm">12 hours</span>
+          </a>
+          <div class="dropdown-divider"></div>
+          <a href="#" class="dropdown-item">
+            <i class="fas fa-file mr-2"></i> 3 new reports
+            <span class="float-right text-muted text-sm">2 days</span>
+          </a>
+          <div class="dropdown-divider"></div>
+          <a href="#" class="dropdown-item dropdown-footer">See All Notifications</a>
+        </div>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" data-widget="control-sidebar" data-slide="true" href="#" role="button">
+          <i class="fas fa-th-large"></i>
+        </a>
+      </li>
+    </ul>
+  </nav>
+  <!-- /.navbar -->
+
+  <!-- Main Sidebar Container -->
+  <aside class="main-sidebar sidebar-dark-primary elevation-4">
+    <!-- Brand Logo -->
+    <a href="index3.html" class="brand-link">
+      <img src="dist/img/AdminLTELogo.png" alt="AdminLTE Logo" class="brand-image img-circle elevation-3"
+           style="opacity: .8">
+      <span class="brand-text font-weight-light">FPT PoLy</span>
+    </a>
+
+    <!-- Sidebar -->
+    <div class="sidebar">
+      <!-- Sidebar user panel (optional) -->
+      <div class="user-panel mt-3 pb-3 mb-3 d-flex">
+        <div class="image">
+          <img src="dist/img/user2-160x160.jpg" class="img-circle elevation-2" alt="User Image">
+        </div>
+        <div class="info">
+          <a href="#" class="d-block">Lê Đình Thi</a>
+        </div>
+      </div>
+
+      <!-- Sidebar Menu -->
+      <nav class="mt-2">
+        <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
+          <!-- Add icons to the links using the .nav-icon class
+               with font-awesome or any other icon font library -->
+          <li class="nav-item has-treeview">
+            <a href="index.html" class="nav-link">
+              <i class="nav-icon fas fa-tachometer-alt"></i>
+              <p>
+                Trang Chủ
+              </p>
+            </a>
+          
+          </li>
+         
+          <li class="nav-item has-treeview">
+            <a href="danhmuc.html?page=1" class="nav-link">
+              <i class="nav-icon fas fa-copy"></i>
+              <p>
+                Danh Mục
+                
+              </p>
+            </a>
+            
+          </li>
+          <li class="nav-item has-treeview">
+            <a href="sanpham.html?page=1" class="nav-link">
+              <i class="nav-icon fas fa-paint-brush"></i>
+              <p>
+                Sản Phẩm
+                
+              </p>
+            </a>
+            
+          </li>
+
+          <li class="nav-item has-treeview">
+            <a href="donhang.html" class="nav-link">
+              <i class="nav-icon fas fa-paint-brush"></i>
+              <p>
+                Đơn hàng
+                
+              </p>
+            </a>
+            
+          </li>
+
+          <li class="nav-item has-treeview">
+            <a href="baiviet.html" class="nav-link">
+              <i class="nav-icon fas fa-file"></i>
+              <p>
+                Bài Viết
+                
+              </p>
+            </a>
+            
+          </li>
+          <li class="nav-item has-treeview">
+            <a href="slider.html" class="nav-link">
+              <i class="nav-icon fas fa-map-signs"></i>
+              <p>
+                slider
+                
+              </p>
+            </a>
+           
+          </li>
+          <li class="nav-item has-treeview">
+            <a href="quangcao.html" class="nav-link">
+              <i class="nav-icon fas fa-map-signs "></i>
+              <p>
+               Quảng Cáo
+                
+              </p>
+            </a>
+            
+          </li>
+          <li class="nav-item has-treeview">
+            <a href="user.html" class="nav-link">
+              <i class="nav-icon fas fa-users"></i>
+              <p>
+                User
+                
+              </p>
+            </a>
+        
+          </li>
+          <li class="nav-item has-treeview">
+            <a href="binhluan.html" class="nav-link">
+              <i class="nav-icon fas fa-comments"></i>
+              <p>
+                Bình Luận
+                
+              </p>
+            </a>
+            
+          </li>
+          <li class="nav-item has-treeview">
+            <a href="congty.html" class="nav-link">
+              <i class="nav-icon fas fa-chart-pie"></i>
+              <p>
+                Công Ty
+                
+              </p>
+            </a>
+           
+          </li>
+          <li class="nav-item has-treeview">
+            <a href="lienhe.html" class="nav-link">
+              <i class="nav-icon fas fa-chart-pie"></i>
+              <p>
+                Liên Hệ
+                
+              </p>
+            </a>
+           
+          </li>
+        </ul>
+      </nav>
+      <!-- /.sidebar-menu -->
+    </div>
+    <!-- /.sidebar -->
+  </aside>
+
+  <!-- Content Wrapper. Contains page content -->
+  <div class="content-wrapper">
+    <!-- Content Header (Page header) -->
+   
+
+    <!-- Main content -->
+    <section class="content">
+      <div class="row">
+        <div class="col-12">
+                <nav class="nav nav-pills nav-justified">
+                    <a class="nav-item nav-link active" data-toggle="tab" href="#show">Danh Sách</a>
+                    <a class="nav-item nav-link" data-toggle="tab" href="#add">Thêm Slider</a>
+                    <a class="nav-item nav-link" data-toggle="tab" href="#edit">Sửa Slider</a>
+                  </nav>
+                <div class="tab-content">
+                  <div id="show" class="tab-pane active">
+                     <!-- /.card -->
+                <div class="card my-3">
+                    <div class="card-header bg-success">
+                    <h3 class="card-title">Danh Sách Slider</h3>
+                    </div>
+                    <!-- /.card-header -->
+                    <div class="card-body">
+                    <table id="sliderid" class="table table-bordered table-striped">
+                        <thead>
+                        <tr>
+                        <th>ID slider</th>
+                        <th>Tiêu đề</th>
+                        <th>images</th>
+                        <th>Mô tả</th>
+                        <th>Trạng thái</th>
+                        <th>Edit</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                           
+                    </tbody>
+                       
+                    </table>
+                    </div>
+                    <!-- /.card-body -->
+                    </div>
+                    <!-- /.card -->
+                  </div>
+                
+
+
+                  <div id="add" class="tab-pane fade">
+                    <div class="card card-primary my-3">
+                        <div class="card-header">
+                          <h3 class="card-title">Thêm Slider</h3>
+                        </div>
+                        <!-- /.card-header -->
+                        <!-- form start -->
+                        <form >
+                          <div class="card-body">
+                            <div class="row">
+                              <div class="col-sm-6">
+
+                                <div class="form-group">
+                                  <label for="exampleInputPassword1">Tiêu Đề</label>
+                                  <input type="text" class="form-control" id="addtd" name="addtd" placeholder="Nhập tiêu đề">
+                                </div>
+                                <div class="form-group">
+                                  <label for="exampleInputPassword1">Images</label>
+                                  <input type="text" class="form-control" id="addimg" name="addimg" placeholder="Nhập images">
+                                </div>
+
+                              </div>
+                              <div class="col-sm-6">
+                                <div class="form-group">
+                                  <label for="exampleInputPassword1">Mô tả</label>
+                                  <input type="text" class="form-control" id="addmt" name="addmt" placeholder="Nhập Mô tả">
+                                </div>
+                                <div class="form-group">
+                                  <label for="exampleInputPassword1">Trạng thái</label>
+                                  <select class="form-control" id="addtt" name="addtt">
+                                    <option value="0">Không Hoạt Động</option>
+                                    <option value="1">Hoạt Động</option>
+                                    </select>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <!-- /.card-body -->
+          
+                          <div class="card-footer">
+                            <button type="submit" class="btn btn-primary" onclick="SaveNew()">Thêm</button>
+                          </div>
+                        </form>
+                      </div>
+                  </div>
+
+                  <div id="edit" class="tab-pane fade">
+                    <div class="card card-primary my-3">
+                        <div class="card-header">
+                          <h3 class="card-title">Sửa Slider</h3>
+                        </div>
+                        <!-- /.card-header -->
+                        <!-- form start -->
+                        <form id="form_edit" action="">
+                          <div class="card-body">
+                            <div class="row">
+                              <div class="col-sm-6">
+
+                                <div class="form-group">
+                                  <label for="exampleInputPassword1">Tiêu Đề</label>
+                                  <input type="text" class="form-control" id="edittd" name="edittd" placeholder="Nhập tiêu đề">
+                                </div>
+                                <div class="form-group">
+                                  <label for="exampleInputPassword1">Images</label>
+                                  <input type="text" class="form-control" id="editimg" name="editimg" placeholder="Nhập images">
+                                </div>
+
+                              </div>
+
+                              <div class="col-sm-6">
+                                <div class="form-group">
+                                  <label for="exampleInputPassword1">Mô tả</label>
+                                  <input type="text" class="form-control" id="editmt" name="editmt" placeholder="Nhập Mô tả">
+                                </div>
+                                <div class="form-group">
+                                  <label for="exampleInputPassword1">Trạng thái</label>
+                                  <input type="text" class="form-control" id="edittt" name="edittt" placeholder="Nhập trạng thái">
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <!-- /.card-body -->
+          
+                          <div class="card-footer">
+                            <button type="submit" class="btn btn-primary" onclick="SaveUpdate()">Sửa</button>
+                          </div>
+                        </form>
+                      </div>
+                  </div>
+                  
+                </div>
+        </div>
+        <!-- /.col -->
+      </div>
+      <!-- /.row -->
+    </section>
+    <!-- /.content -->
+  </div>
+  <!-- /.content-wrapper -->
+  <footer class="main-footer">
+    <div class="float-right d-none d-sm-block">
+      <b>Version</b> 3.0.4
+    </div>
+    <strong>Copyright &copy; 2014-2019 <a href="http://adminlte.io">AdminLTE.io</a>.</strong> All rights
+    reserved.
+  </footer>
+
+  <!-- Control Sidebar -->
+  <aside class="control-sidebar control-sidebar-dark">
+    <!-- Control sidebar content goes here -->
+  </aside>
+  <!-- /.control-sidebar -->
+</div>
+<!-- ./wrapper -->
+
+<!-- jQuery -->
+<script src="plugins/jquery/jquery.min.js"></script>
+<!-- Bootstrap 4 -->
+<script src="plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+<!-- DataTables -->
+<script src="plugins/datatables/jquery.dataTables.min.js"></script>
+<script src="plugins/datatables-bs4/js/dataTables.bootstrap4.min.js"></script>
+<script src="plugins/datatables-responsive/js/dataTables.responsive.min.js"></script>
+<script src="plugins/datatables-responsive/js/responsive.bootstrap4.min.js"></script>
+<!-- AdminLTE App -->
+<script src="dist/js/adminlte.min.js"></script>
+<!-- AdminLTE for demo purposes -->
+<script src="dist/js/demo.js"></script>
+<!-- page script -->
+<script>
+  $(function () {
+    $("#example1").DataTable({
+      "responsive": true,
+      "autoWidth": false,
+    });
+    $('#example2').DataTable({
+      "paging": true,
+      "lengthChange": false,
+      "searching": false,
+      "ordering": true,
+      "info": true,
+      "autoWidth": false,
+      "responsive": true,
+    });
+  });
+</script>
+<script>
+    var url = "http://localhost:3000/slider";
+    fetch(url, {
+        method: "GET"
+    }).then(function(res) {
+        return res.json(); // chuyển chuỗi nhận được thành đối tượng json
+    }).then(function(data) {
+        // các lệnh xử lý cho dữ liệu ở đây: các công việc hiển thị.
+        console.log(data);
+        //duyệt mảng và tạo các element cho vào bảng
+        var bang = document.querySelector('#sliderid');
+        for (i = 0; i < data.length; i++) {
+            var obj = data[i];
+            // Tạo thêm 1 dòng ở cuối bảng bằng cú pháp sau
+            let dong_moi = bang.insertRow(-1);
+
+            // Thêm ô thứ nhất, chỉ số thứ tự là 0, ô này dùng để hiển thị ID
+            let o1 = dong_moi.insertCell(0);
+            o1.innerText = obj.id;
+
+            // Thêm ô thứ hai, chỉ số thứ tự là 1, ô này dùng để hiển thị tendm
+            let o2 = dong_moi.insertCell(1);
+            o2.innerText = obj.tieude;
+
+            let o3 = dong_moi.insertCell(2);
+            var img1 = document.createElement('img');
+            img1.setAttribute('src', obj.images);
+            img1.setAttribute('class',"fixwidth"); 
+            o3.appendChild(img1);
+            
+
+            let o4 = dong_moi.insertCell(3);
+            o4.innerText = obj.mota;
+
+            let o5 = dong_moi.insertCell(4);
+            
+            if(obj.trangthai == 1){
+              o5.innerText = "Hoạt Động";
+            }
+            else if(obj.trangthai == 0){
+              o5.innerText = "Không Hoạt Động";
+            }else{
+              o5.innerText = "cập nhập trạng thái";
+            }
+            // Thêm ô thứ năm, chỉ số thứ tự là 2, ô này dùng để hiển thị nút bấm sửa và xóa
+            let o6 = dong_moi.insertCell(5);
+            // tạo nút bấm xóa:
+            // var btn_xoa = `<a class="nav-item nav-link"data-toggle="tab" href="#edit" style="float: left;">
+            //                         <i class="nav-icon fas fa-edit"></i></a>`;
+            var btn_xoa = document.createElement('button');
+            btn_xoa.setAttribute('type', 'button');
+            btn_xoa.setAttribute('class', 'btn btn-danger mx-3');
+            btn_xoa.setAttribute('data-toggle', 'modal');
+            btn_xoa.setAttribute('data-target', '#modal-default');
+            btn_xoa.innerText = "Xóa";
+            btn_xoa.setAttribute('onclick', 'DeleteRow(' + obj.id + ')') // truyền vào id user
+            o6.appendChild(btn_xoa);
+
+             var btn_sua = document.createElement('button');
+                    btn_sua.setAttribute('type', 'button');
+                    btn_sua.innerText = "Sửa";
+                    btn_sua.setAttribute('class', 'btn btn-success mx-3');
+                    btn_sua.setAttribute('onclick', 'EditRow(' + obj.id + ')') // truyền vào id user
+                    btn_sua.setAttribute('data-toggle', 'tab');
+                    btn_sua.setAttribute('href', '#edit');
+                    o6.appendChild(btn_sua);
+
+        }
+
+    });
+
+    function DeleteRow(id) {
+      var x = confirm("bạn có muốn xóa dữ liêu không ?");
+      if (x ==true) {
+        let url_delete = 'http://localhost:3000/slider/' + id;
+        fetch(url_delete, {
+            method: "DELETE"
+        }).then(function(res) {
+            return res.json(); // chuyển chuỗi nhận được thành đối tượng json
+        }).then(function(data) {
+            // các lệnh xử lý cho dữ liệu ở đây: các công việc hiển thị.
+            // console.log(data);
+            location.reload();
+        });
+    }}
+
+
+    function EditRow(id) {
+            console.log("Edit row " + id);
+            let url_delete = 'http://localhost:3000/slider/' + id;
+            fetch(url_delete, {
+                method: "GET" // dùng phương thức get để lấy thông tin
+            }).then(function(res) {
+                return res.json(); // chuyển chuỗi nhận được thành đối tượng json
+            }).then(function(data) {
+                // các lệnh xử lý cho dữ liệu ở đây: các công việc hiển thị.
+                console.log(data);
+                document.querySelector("input[name=edittd]").value = data.tieude;
+                document.querySelector("input[name=editimg]").value = data.images;
+                document.querySelector("input[name=editmt]").value = data.mota;
+                document.querySelector("input[name=edittt]").value = data.trangthai;
+                //ngoài ra bạn cần giữ lại id để làm căn cứ gửi dữ liệu lên, có thể là thêm 1 thẻ hidden hoặc gắn luôn vào 1 thuộc tính của thẻ form
+                document.querySelector("#form_edit").setAttribute('id_edit', id); // tôi gắn luôn vào thẻ form cho nhanh
+
+                document.querySelector("#form_edit").style.display = "block";
+                // ok giờ đợi người dùng sửa và bấm nút cập nhật.
+
+            });
+
+        }
+
+        // hàm này chạy khi bấm nút Save Update
+        function SaveUpdate() {
+            //1. Lấy dữ liệu 
+            var edittd = document.querySelector("input[name=edittd]").value;
+            var editimg = document.querySelector("input[name=editimg]").value;
+            var editmt = document.querySelector("input[name=editmt]").value;
+            var edittt = document.querySelector("input[name=edittt]").value;
+            
+            //2. kiểm tra hợp lệ
+            if (edittd.length == 0) {
+                alert('Bạn cần nhập tiêu đề');
+                return false;
+            }
+            else if(editimg.length == 0){
+              alert('Bạn cần nhập img');
+                return false;
+            }
+            else if(editmt.length == 0){
+              alert('Bạn cần nhập mô tả');
+                return false;
+            }
+            else if(edittt.length == 0){
+              alert('Bạn cần nhập trạng thái');
+                return false;
+            }
+            // bạn làm tiếp các kiểm tra khác ở đây
+
+            ///......
+
+            //3. Gửi dữ liệu lên server
+            // trước hết là tạo đối tượng để cài dữ liệu vào
+            // 
+            var dataPost = {
+                tieude: edittd,
+                images: editimg,
+                mota: editmt,
+                trangthai: edittt
+            };
+
+            // lấy id bản ghi cần sửa để cho vào url: 
+            var id_edit = document.querySelector("#form_edit").getAttribute('id_edit');
+
+            var url_post = 'http://localhost:3000/slider/' + id_edit; // nối vào url để cho hợp lệ.
+
+            fetch(url_post, {
+                    method: 'PATCH', // sửa thì dùng phương thức PATCH
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify(dataPost), // chuyển dữ liệu object trên thành chuỗi json
+                })
+                .then((response) => response.json()) // chuyển kết quả trả về thành json object
+                .then((data) => {
+
+                    // bạn có thể làm gì đó với kết quả cuối cùng này thì làm
+
+                    console.log('Success:', data); // ghi log kết quả hoàn thành
+
+                    if (data.id == id_edit) {
+                        alert('Đã cập nhật thành công');
+                        LoadListUser();
+
+                        // xóa rỗng các ô textbox ở form
+                        document.querySelector("input[name=edittd]").value = '';
+                        document.querySelector("input[name=editimg]").value = '';
+                        document.querySelector("input[name=editmt]").value = '';
+                        document.querySelector("input[name=edittt]").value = '';
+                        document.querySelector("#form_edit").removeAttribute('id_edit'); // xóa cả cái id vừa gắn vào
+                    }
+
+
+                })
+                .catch((error) => {
+
+                    console.error('Error:', error); // ghi log nếu xảy ra lỗi
+                });
+        }
+
+
+        function SaveNew() {
+            //1. Lấy dữ liệu 
+            var addtd = document.querySelector("input[name=addtd]").value;
+            var addimg = document.querySelector("input[name=addimg]").value;
+            var addmt = document.querySelector("input[name=addmt]").value;
+            var addtt = document.getElementById("addtt").value;
+            console.log(addtt);
+
+            //2. kiểm tra hợp lệ
+            if (addtd.length == 0) {
+                alert('Bạn cần nhập tiêu đề');
+                return false;
+            }
+            else if(addimg.length == 0){
+              alert('Bạn cần nhập img');
+                return false;
+            }
+            else if(addmt.length == 0){
+              alert('Bạn cần nhập mô tả');
+                return false;
+            }
+            else if(addtt.length == 0){
+              alert('Bạn cần nhập trạng thái');
+                return false;
+            }
+            // bạn làm tiếp các kiểm tra khác ở đây
+
+            ///......
+
+            //3. Gửi dữ liệu lên server
+            // trước hết là tạo đối tượng để cài dữ liệu vào
+            var dataPost = {
+                tieude: addtd,
+                images: addimg,
+                mota: addmt,
+                trangthai: addtt
+                
+            };
+            var url_post = 'http://localhost:3000/slider';
+
+            fetch(url_post, {
+                    method: 'POST', // thêm mới thì dùng post
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify(dataPost), // chuyển dữ liệu object trên thành chuỗi json
+                })
+                .then((response) => response.json()) // chuyển kết quả trả về thành json object
+
+                .then((data) => {
+                    // bạn có thể làm gì đó với kết quả cuối cùng này thì làm
+                    alert("thêm thành công");
+                    console.log('Success:', data); // ghi log kết quả hoàn thành
+                })
+                .catch((error) => {
+
+                    console.error('Error:', error); // ghi log nếu xảy ra lỗi
+                });
+        }
+
+</script>
+</body>
+
+
+</html>

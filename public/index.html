@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+</head>
+<body >
+    <center class="my-5"><h1 style="color: red;">Chào Mừng Tất Cả Các Bạn Đến Với Dự Án Javascript Nâng Cao</h1></center>
+    <div class="container">
+        <form>
+            <fieldset disabled>
+              <div class="form-group" id="myList">
+                
+              </div>
+            </fieldset>
+          </form>
+        </div>
+    <script>
+        var form = document.createElement('input');
+        form.setAttribute('type', 'text');
+        form.setAttribute('id', 'disabledTextInput');
+        form.setAttribute('class', 'form-control my-5');
+        form.setAttribute('value', 'Dự Án Được Thực Hiện Bởi Lê Đình Thi');
+        setTimeout(function(){ document.getElementById("myList").appendChild(form); }, 1000);
+
+        var lop = document.createElement('input');
+        lop.setAttribute('type', 'text');
+        lop.setAttribute('id', 'disabledTextInput');
+        lop.setAttribute('class', 'form-control my-5');
+        lop.setAttribute('value', 'Lớp pt14311-web');
+        setTimeout(function(){ document.getElementById("myList").appendChild(lop); }, 2000);
+
+        var gv = document.createElement('input');
+        gv.setAttribute('type', 'text');
+        gv.setAttribute('id', 'disabledTextInput');
+        gv.setAttribute('class', 'form-control my-5');
+        gv.setAttribute('value', 'Giáo Viên Hướng Dẫn Thầy Sơn');
+        setTimeout(function(){ document.getElementById("myList").appendChild(gv); }, 3000);
+
+        var tg = document.createElement('input');
+        tg.setAttribute('type', 'text');
+        tg.setAttribute('id', 'disabledTextInput');
+        tg.setAttribute('class', 'form-control my-5');
+        tg.setAttribute('value', 'Xin Mời Thầy mở file world để biết thêm cách sử dụng và các chức năng');
+        setTimeout(function(){ document.getElementById("myList").appendChild(tg); }, 4000);
+        setTimeout(function(){ window.location.replace('front-end/index.html'); }, 6000);
+        
+    </script>
+</body>
+</html>
